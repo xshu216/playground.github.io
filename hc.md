@@ -22,6 +22,17 @@ http://www.infocomm-journal.com › txxb › article
 作者：王新胜 · 2018 · 被引用次数：1 — ... IMU收集的数据分割成不重叠的线性分段；然后，将线性分段和相机图像片段 ... 同时考虑了道路坡度对驾驶数据的影响，避免因为路况而影响结果的
 https://cloud.tencent.com/developer/article/1746241
 ## 2. 方法
+<img width="927" alt="image 4" src="https://github.com/user-attachments/assets/3a7d592c-5c49-4e4d-aa3e-4a8909824e78">
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/560e36b4-1454-4648-a700-c909546c1c8d">
+<img width="250" alt="image 2" src="https://github.com/user-attachments/assets/4c995b71-d4d0-42dd-8a0a-bd03a60bb3d2">
+<img width="522" alt="image 3" src="https://github.com/user-attachments/assets/6f7144f5-2520-4ce8-9801-df4bc11a81e0">
+
+
+CN 110239554 B
+使能，坡度大于阈值 （区分坡道防溜车，档位）
+动态调整：油门开度信号+制动信号+方向盘转角信号+纵向加速度+换挡信号，适当延长坡度控制的更新时间
+	适 当 延 长 坡 度 更 新 频 率 ，避 免 在 上 述 情 况 下 造 成 前 后 采 样 时 刻 坡 度 变化率过大，影响路面纵向坡度值获取的精确性的问题。
+
 
 
 
