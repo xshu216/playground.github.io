@@ -1,7 +1,6 @@
 # hc
 
-https://chatgpt.com/share/d80af0d1-1c8f-498a-8db5-59a3d5a0121f
-
+https://chatgpt.com/share/4b0ec090-8a9d-41dc-9b09-a702bfdde5a0
 
 
 
