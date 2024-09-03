@@ -10,6 +10,7 @@ https://leetcode.cn/problems/minimum-window-substring/description/
 
 https://blog.csdn.net/myhappyandy/article/details/124026143
 https://chatgpt.com/c/474966be-f87e-4c7b-af9f-c28cc2f475c2
+https://chatgpt.com/share/d80af0d1-1c8f-498a-8db5-59a3d5a0121f
 
 
 
