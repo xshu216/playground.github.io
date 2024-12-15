@@ -1,4 +1,6 @@
 # playground.github.io
+https://chatgpt.com/share/675eeef8-6eb0-800f-9608-2bda560699de
+
 
 - [ ] [岛屿题](https://leetcode.cn/problems/number-of-islands/)
 - [ ] [Rotting Oranges](https://leetcode.cn/problems/rotting-oranges/description/)
